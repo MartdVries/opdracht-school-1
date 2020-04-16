@@ -1,7 +1,19 @@
-div {
+/*div {
     
     width: 300px;
     border: 15px solid green;
     padding: 50px;
+    margin: 20px;
+}*/
+
+#jan:after {
+    content:"";
+    clear: both;
+    display: table;
+    margin-bottom: 200px;
+}
+
+.piet {
+    float: left;
     margin: 20px;
 }
